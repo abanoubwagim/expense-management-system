@@ -20,10 +20,6 @@ MySQL will be used to store user data, including expenses, categories, and user 
 The database will have tables for storing information about expenses, categories, and users.
 Reporting:
 
-The system can generate reports on total spending by category and over a chosen time period.
-Charts or graphs can be generated to help users visualize their spending patterns.
-User Authentication (Optional):
-
 Users may have the option to create accounts, log in, and manage their personal data securely.
 Technical Components:
 Java Swing: Used for building the graphical user interface (GUI), providing interactive forms and a seamless experience.
